@@ -24,7 +24,7 @@ Here you can find a list of commands and definitions of each UPanel commands.
 
     /checkowner
     
-> Checks the owner of the current structure/barrier that you are looking at. (Values return in “ugo” see UGo command for more details)
+> Checks the owner of the current structure/barrier that you are looking at. (Values return in “ugo” see [UGo](README.md/#UGo) command for more details)
 
 
 
