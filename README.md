@@ -87,7 +87,7 @@ Here you can find a list of commands and definitions of each UPanel commands.
   
     /ugo <build-number/identifier>
     
-> Teleports the user to that object. You can find the UGo identifier in the uPanel Building logs set up in your Discord Server or by doing [/checkowner](main/README.md#check-owner)
+> Teleports the user to that object. You can find the UGo identifier in the uPanel Building logs set up in your Discord Server or by doing [/checkowner](README.md#check-owner)
 
 
 ## Unban
