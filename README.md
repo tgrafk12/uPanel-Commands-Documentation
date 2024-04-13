@@ -1,5 +1,11 @@
 # UPanel Commands
 
+Here you can find a list of commands and definitions of each UPanel commands.
+(The commands should be self explainitory, but we decided to make a visual list)
+
+> [!NOTE]
+> Copying the commands listed here will not work alone! You will need to fill in the information inside the '< >' or '[ ]' manually to use the commands. Only ONE value can be used when a command has ' | '. For example, '/ban Nala|1234567891011' will not work, only one value is required for the command to work.
+A valid command looks like this '/ban Nala' or '/ban 1234567891011'
 
 ## Ban
 
@@ -68,7 +74,9 @@
 
 ## UConfig
 
+    /uconfig <generate | migrate> [api key] [server id]
 
+> Configures UPanel to your server
 
 ## UGo
   
