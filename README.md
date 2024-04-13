@@ -4,8 +4,13 @@ Here you can find a list of commands and definitions of each UPanel commands.
 (The commands should be self explainitory, but we decided to make a visual list)
 
 > [!NOTE]
-> Copying the commands listed here will not work alone! You will need to fill in the information inside the '< >' or '[ ]' manually to use the commands. Only ONE value can be used when a command has ' | '. For example, '/ban Nala|1234567891011' will not work, only one value is required for the command to work.
-A valid command looks like this '/ban Nala' or '/ban 1234567891011'
+> Copying the commands listed here will not work alone! You will need to fill in the information inside the '< >' or '[ ]' manually to use the commands. Only ONE value can be used when a command has ' | '.
+> For example, '/ban Nala|1234567891011' will not work, only one value is required for the command to work.
+
+> [!IMPORTANT]
+> Commands with '< >' Require a value for the command to work.
+> Commands with '[ ]' do NOT require a value to work. 
+> A valid command looks like this '/ban Nala' or '/ban 1234567891011'
 
 ## Ban
 
@@ -82,7 +87,7 @@ A valid command looks like this '/ban Nala' or '/ban 1234567891011'
   
     /ugo <build-number/identifier>
     
-> Teleports the user to that object. You can find the UGo identifier in the uPanel Building logs set up in your Discord Server or by doing /checkowner
+> Teleports the user to that object. You can find the UGo identifier in the uPanel Building logs set up in your Discord Server or by doing [/checkowner](main/README.md#check-owner)
 
 
 ## Unban
